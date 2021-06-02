@@ -1,0 +1,114 @@
+#all1 {
+    height: 760px;
+    width: 910px;
+    padding: 25px 10px 25px 10px;
+    border: 1px solid gray;
+    margin: auto;
+}
+
+#red1 {
+    width: 900px;
+    height: 50px;
+    background-color: red;
+}
+
+#all2 {
+    width: 800px;
+    height: 900px;
+    margin-left: 50px;
+}
+
+#dong1 {
+    height: 300px;
+    width: 800px;
+}
+
+#blue1 {
+    width: 600px;
+    height: 300px;
+    float: left;
+    background-color: blue;
+}
+
+#green1 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    float: right;
+}
+
+#yellow {
+    width: 200px;
+    height: 100px;
+    background-color: yellow;
+    float: right;
+}
+
+#dong2cot1 {
+    width: 400px;
+    height: 35px;
+}
+
+#dong2cot2 {
+    width: 400px;
+    height: 400px;
+    float: right;
+    margin-top: -350px;
+}
+
+#green2 {
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    float: left;
+}
+
+#pink1 {
+    width: 200px;
+    height: 150px;
+    background-color: rgb(253, 160, 191);
+    float: left;
+}
+
+#orange2 {
+    width: 200px;
+    height: 150px;
+    background-color: orange;
+    float: right;
+}
+
+#red2 {
+    width: 200px;
+    height: 300px;
+    background-color: red;
+    float: left;
+}
+
+#orange1 {
+    width: 200px;
+    height: 100px;
+    background-color: orange;
+    float: right;
+}
+
+#green3 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    float: right;
+}
+
+#pink2 {
+    width: 400px;
+    height: 50px;
+    background-color: rgb(253, 148, 183);
+    float: left;
+}
+
+#blue2 {
+    width: 800px;
+    height: 50px;
+    background-color: blue;
+    float: left;
+    margin-top: -50px;
+}
